@@ -4,7 +4,7 @@
 
 ## 联系方式
 
-**AI 慢思考实验室：** [labs.magicagi.top](https://labs.magicagi.top)
+**AI 慢思考实验室：** [lab.magicagi.top](https://lab.magicagi.top)
 
 **微信公众号：** 神奇的桑桑
 
