@@ -9,11 +9,3 @@
 **微信公众号：** 神奇的桑桑
 
 **Email：** [magicsang666@gmail.com](mailto:magicsang666@gmail.com)
-
-## 加入交流群
-
-扫码加入「神奇桑桑・Ai 协同研究站」。
-
-> 二维码 7 天内有效，6 月 11 日前可用。如失效，请通过公众号或 Email 联系我。
-
-<img src="assets/wechat-group.jpg" alt="神奇桑桑・Ai 协同研究站微信群二维码" width="260">
